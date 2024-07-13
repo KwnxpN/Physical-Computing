@@ -16,4 +16,5 @@ int main()
     result[5] = '\0';
 
     printf("%s", result);
+    return 0;
 }
